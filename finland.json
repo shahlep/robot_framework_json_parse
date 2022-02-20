@@ -1,9 +1,9 @@
 {
   "firstname": "Shah",
   "lastName": "Rahman",
-  "age": 00,
+  "age": 10,
   "address": {
-    "street": "Testi katu",
+    "street": "Testikatu",
     "city": "Helinski",
     "state": "Uusimaa"
   },
