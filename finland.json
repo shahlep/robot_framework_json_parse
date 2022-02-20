@@ -1,0 +1,16 @@
+{
+  "firstname": "Shah",
+  "lastName": "Rahman",
+  "age": 00,
+  "address": {
+    "street": "Testi katu",
+    "city": "Helinski",
+    "state": "Uusimaa"
+  },
+  "contact": [
+    {"type": "landline",
+    "number": "12345"},
+    {"type": "mobile",
+    "number": "12345"}
+  ]
+}
